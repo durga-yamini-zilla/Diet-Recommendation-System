@@ -1,0 +1,1001 @@
+Age,Gender,Height_cm,Weight_kg,BMI,Disease,Food_Preference,Activity_Level,Calories_Intake,Recommended_Diet
+29,Male,185,130,38.0,Diabetes,Eggetarian,Low,3906,Diabetic Diet
+70,Female,162,121,46.1,Hypertension,Veg,High,2021,DASH Diet
+41,Female,154,70,29.5,Diabetes,Vegan,Moderate,2880,Diabetic Diet
+38,Male,185,66,19.3,Hypertension,Vegan,Moderate,3846,DASH Diet
+28,Female,188,116,32.8,Diabetes,Eggetarian,Low,1665,Diabetic Diet
+27,Male,146,71,33.3,Obesity,Eggetarian,Moderate,3493,Low Carb Diet
+45,Female,186,44,12.7,Diabetes,Non-Veg,Moderate,1758,Diabetic Diet
+19,Female,195,75,19.7,Diabetes,Veg,High,3190,Diabetic Diet
+68,Male,148,50,22.8,Obesity,Vegan,Low,2867,Low Carb Diet
+41,Male,170,57,19.7,Diabetes,Veg,High,3249,Diabetic Diet
+25,Female,176,51,16.5,Diabetes,Veg,Moderate,2548,Diabetic Diet
+55,Female,192,70,19.0,Hypertension,Non-Veg,Low,1637,DASH Diet
+29,Male,162,96,36.6,Hypertension,Vegan,High,1429,DASH Diet
+49,Female,189,54,15.1,Obesity,Eggetarian,Moderate,3996,Low Carb Diet
+33,Female,195,58,15.3,Obesity,Eggetarian,High,2706,Low Carb Diet
+70,Female,146,122,57.2,None,Veg,High,3950,Low Carb Diet
+33,Female,180,89,27.5,Obesity,Vegan,High,1699,Low Carb Diet
+52,Male,173,89,29.7,None,Eggetarian,Moderate,2432,Balanced Diet
+23,Male,164,66,24.5,Diabetes,Eggetarian,High,2499,Diabetic Diet
+69,Female,195,44,11.6,Obesity,Veg,Moderate,3129,Low Carb Diet
+65,Female,166,94,34.1,None,Non-Veg,High,2268,Low Carb Diet
+50,Male,167,93,33.3,Obesity,Eggetarian,High,1312,Low Carb Diet
+66,Male,186,122,35.3,Diabetes,Eggetarian,High,1757,Diabetic Diet
+18,Female,157,120,48.7,Obesity,Vegan,High,1536,Low Carb Diet
+25,Male,160,106,41.4,Diabetes,Eggetarian,Moderate,3049,Diabetic Diet
+48,Male,161,62,23.9,Obesity,Vegan,Low,1545,Low Carb Diet
+44,Female,156,90,37.0,Hypertension,Non-Veg,Low,1294,DASH Diet
+53,Male,150,99,44.0,Diabetes,Vegan,High,1891,Diabetic Diet
+21,Female,184,94,27.8,Obesity,Non-Veg,Low,2707,Low Carb Diet
+28,Male,145,107,50.9,Hypertension,Eggetarian,High,3224,DASH Diet
+25,Male,190,66,18.3,Diabetes,Vegan,Moderate,3224,Diabetic Diet
+42,Male,172,66,22.3,Diabetes,Vegan,High,3973,Diabetic Diet
+30,Female,156,92,37.8,Diabetes,Veg,Moderate,2272,Diabetic Diet
+33,Female,160,87,34.0,Hypertension,Veg,Low,3120,DASH Diet
+26,Female,189,90,25.2,Diabetes,Eggetarian,High,2933,Diabetic Diet
+65,Female,149,52,23.4,None,Veg,Moderate,2161,Balanced Diet
+48,Female,183,125,37.3,None,Veg,Moderate,3266,Low Carb Diet
+57,Female,164,90,33.5,Obesity,Non-Veg,High,1368,Low Carb Diet
+55,Male,161,61,23.5,Hypertension,Vegan,Moderate,1740,DASH Diet
+23,Female,190,107,29.6,Hypertension,Non-Veg,Moderate,1678,DASH Diet
+38,Male,153,103,44.0,Obesity,Vegan,Moderate,2358,Low Carb Diet
+34,Female,178,80,25.2,Hypertension,Non-Veg,Moderate,3212,DASH Diet
+66,Male,180,124,38.3,Hypertension,Veg,Low,1808,DASH Diet
+21,Male,156,44,18.1,Hypertension,Vegan,Low,3113,DASH Diet
+45,Male,176,45,14.5,Hypertension,Vegan,High,3497,DASH Diet
+49,Female,176,54,17.4,Diabetes,Veg,Moderate,1583,Diabetic Diet
+31,Female,156,61,25.1,Obesity,Non-Veg,High,1216,Low Carb Diet
+51,Male,171,49,16.8,Diabetes,Eggetarian,High,1586,Diabetic Diet
+39,Male,163,127,47.8,None,Eggetarian,Moderate,3618,Low Carb Diet
+24,Female,154,43,18.1,None,Eggetarian,High,3901,High Protein Diet
+48,Female,185,74,21.6,None,Vegan,Low,3887,Vegan Diet
+57,Female,165,112,41.1,Diabetes,Non-Veg,Low,3836,Diabetic Diet
+36,Female,148,49,22.4,Hypertension,Veg,Moderate,2245,DASH Diet
+29,Male,194,91,24.2,None,Veg,Low,1867,Balanced Diet
+42,Female,163,122,45.9,Diabetes,Veg,Moderate,3210,Diabetic Diet
+69,Female,192,79,21.4,Diabetes,Vegan,High,1593,Diabetic Diet
+41,Male,176,97,31.3,Hypertension,Eggetarian,Moderate,3506,DASH Diet
+56,Female,150,94,41.8,Obesity,Non-Veg,Moderate,3783,Low Carb Diet
+45,Male,147,105,48.6,Obesity,Eggetarian,High,2118,Low Carb Diet
+59,Male,176,107,34.5,None,Vegan,Moderate,2991,Low Carb Diet
+23,Female,164,59,21.9,Diabetes,Vegan,Low,3342,Diabetic Diet
+45,Female,181,46,14.0,None,Veg,High,1640,High Protein Diet
+50,Female,171,52,17.8,Hypertension,Vegan,Moderate,2243,DASH Diet
+55,Male,194,104,27.6,None,Veg,High,3909,High Protein Diet
+47,Male,195,63,16.6,Hypertension,Veg,Low,2904,DASH Diet
+63,Female,165,115,42.2,Hypertension,Eggetarian,High,2285,DASH Diet
+39,Male,158,63,25.2,None,Vegan,High,1635,High Protein Diet
+45,Male,145,90,42.8,None,Veg,Low,3886,Low Carb Diet
+48,Female,189,91,25.5,Hypertension,Vegan,High,3726,DASH Diet
+41,Female,164,51,19.0,Diabetes,Non-Veg,Low,1981,Diabetic Diet
+25,Male,189,64,17.9,None,Non-Veg,Moderate,3856,Balanced Diet
+27,Male,172,120,40.6,Diabetes,Veg,Moderate,3098,Diabetic Diet
+27,Female,172,42,14.2,None,Non-Veg,Low,3023,Balanced Diet
+49,Female,146,97,45.5,Diabetes,Non-Veg,Moderate,3532,Diabetic Diet
+43,Male,166,41,14.9,None,Eggetarian,Moderate,3230,Balanced Diet
+65,Female,147,102,47.2,Hypertension,Eggetarian,High,3620,DASH Diet
+64,Female,159,47,18.6,None,Eggetarian,High,2493,High Protein Diet
+53,Male,162,122,46.5,Hypertension,Eggetarian,Low,3226,DASH Diet
+57,Female,173,129,43.1,Hypertension,Veg,Low,2379,DASH Diet
+64,Male,175,84,27.4,Hypertension,Non-Veg,High,2099,DASH Diet
+55,Female,183,124,37.0,Hypertension,Non-Veg,Moderate,2798,DASH Diet
+44,Female,195,100,26.3,Diabetes,Non-Veg,Moderate,1553,Diabetic Diet
+60,Female,153,62,26.5,Diabetes,Non-Veg,High,3215,Diabetic Diet
+24,Female,176,78,25.2,Diabetes,Non-Veg,High,1392,Diabetic Diet
+19,Female,161,85,32.8,Diabetes,Non-Veg,High,1330,Diabetic Diet
+69,Male,166,95,34.5,None,Non-Veg,Low,3501,Low Carb Diet
+32,Female,161,83,32.0,Obesity,Veg,High,2295,Low Carb Diet
+27,Male,190,46,12.7,Hypertension,Eggetarian,Low,1633,DASH Diet
+68,Male,180,45,13.9,None,Non-Veg,High,1683,High Protein Diet
+31,Female,155,77,32.0,Hypertension,Eggetarian,High,1606,DASH Diet
+27,Female,166,57,20.7,None,Non-Veg,Moderate,2902,Balanced Diet
+67,Male,160,100,39.1,Obesity,Vegan,High,1901,Low Carb Diet
+23,Female,168,93,33.0,Obesity,Non-Veg,Low,3369,Low Carb Diet
+44,Male,153,94,40.2,Hypertension,Eggetarian,Moderate,3314,DASH Diet
+68,Female,146,96,45.0,Diabetes,Veg,High,3319,Diabetic Diet
+22,Male,166,80,29.0,Hypertension,Non-Veg,Moderate,1451,DASH Diet
+43,Male,187,122,34.9,Diabetes,Veg,High,3904,Diabetic Diet
+51,Female,171,91,31.1,Obesity,Vegan,Moderate,1232,Low Carb Diet
+70,Female,178,118,37.2,Diabetes,Eggetarian,Moderate,3837,Diabetic Diet
+31,Female,189,84,23.5,Hypertension,Non-Veg,Moderate,1545,DASH Diet
+20,Female,169,56,19.6,Obesity,Non-Veg,Low,3295,Low Carb Diet
+53,Female,178,83,26.2,Diabetes,Veg,Low,3411,Diabetic Diet
+55,Female,160,78,30.5,Hypertension,Veg,High,1445,DASH Diet
+41,Female,185,104,30.4,Obesity,Veg,Low,3866,Low Carb Diet
+25,Female,164,113,42.0,None,Eggetarian,Moderate,2167,Low Carb Diet
+69,Male,167,78,28.0,Obesity,Non-Veg,High,2746,Low Carb Diet
+51,Male,151,81,35.5,Diabetes,Vegan,Moderate,1601,Diabetic Diet
+27,Female,171,50,17.1,None,Veg,Moderate,1732,Balanced Diet
+48,Male,173,49,16.4,Obesity,Eggetarian,High,3489,Low Carb Diet
+51,Female,161,114,44.0,Hypertension,Eggetarian,Moderate,3205,DASH Diet
+64,Female,155,58,24.1,Diabetes,Eggetarian,High,3074,Diabetic Diet
+26,Male,189,67,18.8,Hypertension,Eggetarian,Low,1842,DASH Diet
+53,Female,152,117,50.6,Hypertension,Veg,Low,2713,DASH Diet
+54,Female,147,106,49.1,Diabetes,Veg,Moderate,2448,Diabetic Diet
+41,Female,163,102,38.4,None,Non-Veg,Low,3615,Low Carb Diet
+44,Male,164,76,28.3,Diabetes,Non-Veg,High,3202,Diabetic Diet
+18,Male,180,84,25.9,None,Veg,Moderate,3170,Balanced Diet
+54,Female,181,97,29.6,Obesity,Eggetarian,Moderate,3680,Low Carb Diet
+26,Male,177,121,38.6,Hypertension,Eggetarian,High,3039,DASH Diet
+27,Female,150,119,52.9,Hypertension,Eggetarian,Low,2819,DASH Diet
+39,Male,187,96,27.5,Obesity,Veg,Low,1301,Low Carb Diet
+54,Female,180,122,37.7,None,Veg,Low,3734,Low Carb Diet
+52,Male,181,106,32.4,Diabetes,Eggetarian,High,1276,Diabetic Diet
+25,Male,146,75,35.2,Diabetes,Non-Veg,High,3573,Diabetic Diet
+46,Male,179,117,36.5,Obesity,Eggetarian,High,1384,Low Carb Diet
+49,Male,166,95,34.5,Diabetes,Eggetarian,Low,3362,Diabetic Diet
+38,Female,161,51,19.7,None,Veg,High,1888,High Protein Diet
+36,Male,156,72,29.6,None,Non-Veg,Moderate,2868,Balanced Diet
+61,Male,148,118,53.9,Obesity,Non-Veg,Low,1439,Low Carb Diet
+37,Female,151,80,35.1,Diabetes,Eggetarian,Moderate,2256,Diabetic Diet
+42,Male,148,65,29.7,Diabetes,Non-Veg,Moderate,3283,Diabetic Diet
+66,Female,152,74,32.0,None,Vegan,Moderate,3465,Low Carb Diet
+44,Male,175,43,14.0,Hypertension,Non-Veg,Low,2302,DASH Diet
+53,Male,160,111,43.4,Diabetes,Vegan,High,2866,Diabetic Diet
+46,Male,185,104,30.4,Diabetes,Non-Veg,Moderate,3413,Diabetic Diet
+28,Male,179,94,29.3,Hypertension,Veg,Low,3103,DASH Diet
+57,Female,186,61,17.6,None,Veg,Moderate,2319,Balanced Diet
+56,Female,188,88,24.9,Obesity,Non-Veg,High,3290,Low Carb Diet
+36,Male,155,108,45.0,None,Vegan,Low,2819,Low Carb Diet
+62,Male,153,111,47.4,Obesity,Eggetarian,Low,3700,Low Carb Diet
+50,Female,188,83,23.5,Obesity,Eggetarian,Moderate,2207,Low Carb Diet
+60,Female,166,66,24.0,Hypertension,Vegan,Low,1747,DASH Diet
+59,Male,183,100,29.9,None,Veg,High,1910,High Protein Diet
+44,Female,193,90,24.2,None,Veg,High,1326,High Protein Diet
+70,Female,188,55,15.6,Obesity,Eggetarian,High,2666,Low Carb Diet
+42,Male,194,129,34.3,None,Veg,Moderate,2717,Low Carb Diet
+30,Female,145,68,32.3,None,Vegan,High,2665,Low Carb Diet
+30,Male,184,120,35.4,Obesity,Non-Veg,Low,3222,Low Carb Diet
+41,Male,162,103,39.2,Diabetes,Veg,Low,3815,Diabetic Diet
+43,Male,162,112,42.7,Hypertension,Non-Veg,High,1993,DASH Diet
+60,Male,149,115,51.8,Diabetes,Veg,Low,2263,Diabetic Diet
+54,Male,178,75,23.7,Diabetes,Veg,High,3976,Diabetic Diet
+52,Female,188,111,31.4,Hypertension,Veg,Moderate,3825,DASH Diet
+61,Male,165,95,34.9,Hypertension,Vegan,Low,3985,DASH Diet
+51,Female,176,86,27.8,None,Non-Veg,Low,2338,Balanced Diet
+44,Female,165,40,14.7,Hypertension,Non-Veg,Moderate,1535,DASH Diet
+54,Male,192,68,18.4,Hypertension,Veg,Low,2006,DASH Diet
+28,Female,164,48,17.8,None,Veg,Moderate,2969,Balanced Diet
+69,Male,182,120,36.2,Obesity,Vegan,Low,1641,Low Carb Diet
+48,Male,166,46,16.7,Obesity,Non-Veg,Low,3657,Low Carb Diet
+57,Female,193,52,14.0,Hypertension,Veg,Low,1448,DASH Diet
+20,Female,165,128,47.0,None,Non-Veg,Low,3010,Low Carb Diet
+21,Female,184,120,35.4,Hypertension,Veg,Low,3975,DASH Diet
+21,Male,163,88,33.1,Hypertension,Veg,High,2883,DASH Diet
+32,Male,174,89,29.4,Hypertension,Eggetarian,High,3736,DASH Diet
+24,Female,186,126,36.4,None,Eggetarian,High,2544,Low Carb Diet
+55,Male,151,53,23.2,None,Veg,High,1993,High Protein Diet
+54,Male,185,105,30.7,Obesity,Vegan,Moderate,3171,Low Carb Diet
+64,Female,156,71,29.2,Diabetes,Veg,Low,1722,Diabetic Diet
+37,Female,177,123,39.3,Obesity,Vegan,High,3416,Low Carb Diet
+67,Male,154,100,42.2,Obesity,Vegan,Moderate,2710,Low Carb Diet
+18,Male,148,70,32.0,None,Eggetarian,Moderate,2000,Low Carb Diet
+30,Male,195,48,12.6,Obesity,Non-Veg,High,3148,Low Carb Diet
+62,Female,183,128,38.2,Obesity,Vegan,High,2427,Low Carb Diet
+44,Female,155,53,22.1,Hypertension,Veg,Moderate,2098,DASH Diet
+18,Male,189,69,19.3,Hypertension,Non-Veg,Low,3169,DASH Diet
+65,Female,192,88,23.9,Diabetes,Eggetarian,Low,1227,Diabetic Diet
+41,Male,149,85,38.3,None,Veg,Low,2390,Low Carb Diet
+46,Male,185,114,33.3,Obesity,Veg,Low,2015,Low Carb Diet
+30,Female,156,68,27.9,Obesity,Non-Veg,Moderate,3471,Low Carb Diet
+33,Male,157,42,17.0,Diabetes,Vegan,Low,1285,Diabetic Diet
+61,Male,169,123,43.1,None,Vegan,Low,2449,Low Carb Diet
+47,Male,168,87,30.8,Diabetes,Eggetarian,High,1467,Diabetic Diet
+25,Male,153,64,27.3,Diabetes,Eggetarian,High,2732,Diabetic Diet
+38,Female,185,71,20.7,None,Non-Veg,High,2404,High Protein Diet
+68,Male,165,71,26.1,None,Vegan,Low,3281,Vegan Diet
+55,Female,158,50,20.0,Hypertension,Veg,Low,3283,DASH Diet
+42,Female,176,106,34.2,Hypertension,Non-Veg,Moderate,2731,DASH Diet
+51,Female,190,103,28.5,Hypertension,Vegan,High,2842,DASH Diet
+58,Male,158,68,27.2,Diabetes,Eggetarian,Low,2821,Diabetic Diet
+31,Female,172,88,29.7,Diabetes,Vegan,Moderate,3455,Diabetic Diet
+23,Male,193,50,13.4,Obesity,Eggetarian,High,2640,Low Carb Diet
+32,Male,174,105,34.7,Obesity,Eggetarian,Moderate,3115,Low Carb Diet
+45,Female,168,103,36.5,Obesity,Vegan,Moderate,1301,Low Carb Diet
+29,Female,159,73,28.9,None,Vegan,Low,2406,Vegan Diet
+50,Male,195,75,19.7,Diabetes,Veg,Low,1492,Diabetic Diet
+41,Male,179,65,20.3,Obesity,Non-Veg,High,2548,Low Carb Diet
+34,Female,192,127,34.5,Obesity,Non-Veg,High,3674,Low Carb Diet
+26,Female,145,78,37.1,Obesity,Vegan,Moderate,2861,Low Carb Diet
+70,Male,175,123,40.2,Diabetes,Eggetarian,Low,2129,Diabetic Diet
+64,Male,175,69,22.5,Hypertension,Eggetarian,Moderate,1551,DASH Diet
+38,Male,172,129,43.6,Hypertension,Non-Veg,Moderate,3043,DASH Diet
+53,Male,168,57,20.2,Diabetes,Vegan,High,1239,Diabetic Diet
+49,Female,166,68,24.7,Hypertension,Eggetarian,High,2852,DASH Diet
+66,Female,165,115,42.2,None,Veg,Low,1829,Low Carb Diet
+39,Female,169,66,23.1,Hypertension,Veg,High,2782,DASH Diet
+30,Female,151,82,36.0,Hypertension,Vegan,Low,1902,DASH Diet
+24,Male,147,128,59.2,Hypertension,Veg,Low,2015,DASH Diet
+22,Female,163,66,24.8,Diabetes,Vegan,High,3347,Diabetic Diet
+22,Female,148,87,39.7,None,Non-Veg,Moderate,2882,Low Carb Diet
+43,Male,152,56,24.2,Hypertension,Eggetarian,High,1481,DASH Diet
+42,Male,153,66,28.2,Obesity,Eggetarian,High,3922,Low Carb Diet
+48,Male,183,113,33.7,Obesity,Non-Veg,High,3079,Low Carb Diet
+35,Male,145,58,27.6,Hypertension,Veg,Moderate,3677,DASH Diet
+69,Male,178,82,25.9,Hypertension,Eggetarian,Moderate,3559,DASH Diet
+20,Male,163,122,45.9,Hypertension,Vegan,High,2418,DASH Diet
+43,Male,171,71,24.3,Diabetes,Eggetarian,Moderate,2775,Diabetic Diet
+60,Male,189,112,31.4,None,Eggetarian,High,1378,Low Carb Diet
+33,Male,162,120,45.7,Obesity,Veg,High,2089,Low Carb Diet
+49,Female,193,110,29.5,None,Vegan,Low,1630,Vegan Diet
+50,Female,171,97,33.2,Diabetes,Vegan,Low,3272,Diabetic Diet
+20,Female,146,49,23.0,Hypertension,Eggetarian,Moderate,2835,DASH Diet
+30,Female,147,41,19.0,Obesity,Veg,High,1759,Low Carb Diet
+38,Female,176,99,32.0,None,Veg,High,3891,Low Carb Diet
+33,Female,153,100,42.7,Obesity,Non-Veg,Low,1273,Low Carb Diet
+56,Male,156,77,31.6,None,Eggetarian,Low,1517,Low Carb Diet
+60,Male,188,74,20.9,Diabetes,Eggetarian,Moderate,1928,Diabetic Diet
+31,Male,188,108,30.6,Diabetes,Eggetarian,High,1395,Diabetic Diet
+58,Male,169,128,44.8,Obesity,Eggetarian,Low,3650,Low Carb Diet
+18,Male,194,88,23.4,Diabetes,Non-Veg,Moderate,2177,Diabetic Diet
+30,Male,146,93,43.6,None,Veg,Moderate,1987,Low Carb Diet
+61,Male,159,52,20.6,Diabetes,Non-Veg,Low,2902,Diabetic Diet
+50,Male,165,81,29.8,Diabetes,Non-Veg,High,2818,Diabetic Diet
+45,Male,159,67,26.5,None,Vegan,Moderate,1911,Vegan Diet
+18,Female,186,80,23.1,None,Eggetarian,Low,3079,Balanced Diet
+32,Male,187,75,21.4,Obesity,Veg,Low,2095,Low Carb Diet
+44,Female,194,116,30.8,Hypertension,Veg,High,3396,DASH Diet
+68,Male,161,52,20.1,Obesity,Eggetarian,High,1744,Low Carb Diet
+39,Male,185,128,37.4,Obesity,Eggetarian,Low,2572,Low Carb Diet
+19,Female,169,105,36.8,Diabetes,Veg,Low,1286,Diabetic Diet
+57,Male,164,70,26.0,Hypertension,Non-Veg,High,1525,DASH Diet
+21,Male,168,103,36.5,Obesity,Non-Veg,Low,2739,Low Carb Diet
+31,Male,160,116,45.3,Hypertension,Vegan,Low,2339,DASH Diet
+38,Male,178,93,29.4,Obesity,Veg,Low,2556,Low Carb Diet
+39,Male,158,109,43.7,None,Non-Veg,High,2111,Low Carb Diet
+56,Female,178,81,25.6,Diabetes,Eggetarian,High,1224,Diabetic Diet
+22,Female,149,64,28.8,None,Non-Veg,Low,1714,Balanced Diet
+23,Male,182,110,33.2,Diabetes,Non-Veg,High,1520,Diabetic Diet
+45,Female,164,61,22.7,Diabetes,Non-Veg,Moderate,1922,Diabetic Diet
+56,Male,164,76,28.3,Hypertension,Non-Veg,Moderate,3170,DASH Diet
+23,Female,170,88,30.4,Diabetes,Eggetarian,Moderate,2931,Diabetic Diet
+50,Female,193,59,15.8,Hypertension,Veg,Moderate,2950,DASH Diet
+23,Female,183,108,32.2,Diabetes,Non-Veg,Moderate,2758,Diabetic Diet
+47,Female,174,76,25.1,Hypertension,Eggetarian,Low,2564,DASH Diet
+26,Female,157,59,23.9,Diabetes,Veg,Low,3250,Diabetic Diet
+64,Female,176,91,29.4,Hypertension,Eggetarian,High,2728,DASH Diet
+42,Female,164,122,45.4,None,Eggetarian,Low,1709,Low Carb Diet
+42,Male,157,95,38.5,Obesity,Vegan,High,3201,Low Carb Diet
+58,Female,189,47,13.2,Hypertension,Eggetarian,High,2210,DASH Diet
+33,Female,147,86,39.8,None,Non-Veg,Moderate,3679,Low Carb Diet
+47,Male,161,71,27.4,Diabetes,Veg,Low,1578,Diabetic Diet
+59,Female,170,130,45.0,None,Non-Veg,Moderate,1879,Low Carb Diet
+45,Female,189,78,21.8,Hypertension,Vegan,High,2885,DASH Diet
+66,Male,151,121,53.1,Obesity,Non-Veg,Moderate,2058,Low Carb Diet
+65,Female,189,79,22.1,None,Non-Veg,Moderate,1206,Balanced Diet
+24,Male,194,129,34.3,Hypertension,Eggetarian,High,2381,DASH Diet
+64,Female,155,62,25.8,Obesity,Non-Veg,High,1750,Low Carb Diet
+30,Female,156,104,42.7,None,Eggetarian,High,2070,Low Carb Diet
+29,Male,148,63,28.8,Diabetes,Vegan,Moderate,3005,Diabetic Diet
+58,Male,185,61,17.8,None,Vegan,Low,2747,Vegan Diet
+25,Female,149,83,37.4,None,Non-Veg,Moderate,3187,Low Carb Diet
+61,Male,145,47,22.4,Obesity,Veg,High,3585,Low Carb Diet
+68,Male,151,67,29.4,None,Eggetarian,High,3330,High Protein Diet
+66,Female,176,100,32.3,Obesity,Eggetarian,Moderate,2718,Low Carb Diet
+61,Female,165,70,25.7,Obesity,Eggetarian,Moderate,3701,Low Carb Diet
+21,Female,166,52,18.9,None,Eggetarian,High,2845,High Protein Diet
+64,Male,146,117,54.9,None,Vegan,High,2218,Low Carb Diet
+41,Female,184,127,37.5,Hypertension,Eggetarian,High,1969,DASH Diet
+18,Female,146,121,56.8,Obesity,Veg,High,2533,Low Carb Diet
+61,Female,159,117,46.3,Hypertension,Eggetarian,High,3709,DASH Diet
+68,Male,167,94,33.7,Hypertension,Veg,High,2776,DASH Diet
+36,Male,190,58,16.1,None,Non-Veg,Moderate,1556,Balanced Diet
+37,Female,155,97,40.4,None,Eggetarian,High,3414,Low Carb Diet
+33,Male,158,61,24.4,None,Veg,Moderate,1319,Balanced Diet
+28,Female,169,75,26.3,Diabetes,Vegan,High,3150,Diabetic Diet
+60,Male,187,57,16.3,Hypertension,Veg,High,2563,DASH Diet
+32,Male,186,83,24.0,Hypertension,Eggetarian,High,3830,DASH Diet
+68,Female,159,68,26.9,Obesity,Veg,Moderate,1559,Low Carb Diet
+25,Male,166,115,41.7,Diabetes,Veg,High,2706,Diabetic Diet
+26,Female,169,113,39.6,None,Vegan,Low,3616,Low Carb Diet
+52,Male,169,94,32.9,Obesity,Vegan,High,1717,Low Carb Diet
+51,Male,151,90,39.5,None,Eggetarian,Moderate,1792,Low Carb Diet
+70,Female,159,103,40.7,Hypertension,Non-Veg,High,2360,DASH Diet
+27,Male,183,80,23.9,Obesity,Veg,Moderate,3550,Low Carb Diet
+48,Male,176,77,24.9,Hypertension,Veg,Moderate,1825,DASH Diet
+70,Male,191,68,18.6,None,Non-Veg,Moderate,2804,Balanced Diet
+37,Male,146,110,51.6,Hypertension,Vegan,Moderate,3976,DASH Diet
+48,Female,193,90,24.2,Hypertension,Veg,High,2359,DASH Diet
+36,Male,189,110,30.8,Hypertension,Veg,Low,2524,DASH Diet
+66,Male,190,78,21.6,Hypertension,Non-Veg,High,1763,DASH Diet
+46,Female,163,58,21.8,Diabetes,Non-Veg,High,2001,Diabetic Diet
+65,Male,168,113,40.0,None,Non-Veg,Moderate,2949,Low Carb Diet
+61,Male,148,52,23.7,Obesity,Eggetarian,Low,1414,Low Carb Diet
+25,Female,182,95,28.7,Diabetes,Eggetarian,Low,1339,Diabetic Diet
+25,Male,170,102,35.3,Obesity,Non-Veg,High,2737,Low Carb Diet
+67,Male,194,99,26.3,Hypertension,Vegan,High,3875,DASH Diet
+46,Female,145,55,26.2,None,Veg,Low,3203,Balanced Diet
+59,Male,146,115,54.0,Hypertension,Vegan,High,1587,DASH Diet
+68,Male,169,101,35.4,Hypertension,Vegan,High,1712,DASH Diet
+24,Female,149,108,48.6,Diabetes,Eggetarian,High,1280,Diabetic Diet
+43,Female,149,106,47.7,None,Non-Veg,High,1680,Low Carb Diet
+29,Male,145,111,52.8,Hypertension,Vegan,Low,1360,DASH Diet
+26,Male,186,60,17.3,None,Vegan,Low,1546,Vegan Diet
+25,Female,168,109,38.6,Diabetes,Eggetarian,High,1200,Diabetic Diet
+33,Female,147,106,49.1,Obesity,Eggetarian,Low,3563,Low Carb Diet
+49,Female,178,85,26.8,Diabetes,Veg,High,1383,Diabetic Diet
+33,Male,157,58,23.5,Obesity,Non-Veg,Low,3666,Low Carb Diet
+53,Male,182,85,25.7,Obesity,Non-Veg,High,3748,Low Carb Diet
+45,Male,180,72,22.2,Obesity,Eggetarian,High,1868,Low Carb Diet
+43,Female,150,72,32.0,Hypertension,Non-Veg,High,2034,DASH Diet
+22,Female,185,129,37.7,Diabetes,Vegan,High,3892,Diabetic Diet
+59,Male,171,59,20.2,Obesity,Eggetarian,Moderate,1306,Low Carb Diet
+56,Male,149,74,33.3,None,Veg,High,3446,Low Carb Diet
+44,Male,166,121,43.9,None,Vegan,Moderate,2319,Low Carb Diet
+27,Male,162,41,15.6,None,Eggetarian,Low,2750,Balanced Diet
+24,Male,156,107,44.0,Obesity,Eggetarian,Low,3366,Low Carb Diet
+40,Female,180,74,22.8,None,Veg,Low,2502,Balanced Diet
+66,Female,156,84,34.5,Hypertension,Eggetarian,High,1722,DASH Diet
+34,Male,188,105,29.7,Diabetes,Non-Veg,Low,2751,Diabetic Diet
+54,Female,148,121,55.2,Obesity,Non-Veg,High,3693,Low Carb Diet
+44,Female,156,96,39.4,Obesity,Eggetarian,High,2374,Low Carb Diet
+35,Female,178,69,21.8,Obesity,Veg,Moderate,2865,Low Carb Diet
+67,Female,150,121,53.8,None,Veg,High,2183,Low Carb Diet
+23,Male,181,47,14.3,None,Vegan,High,3218,High Protein Diet
+69,Male,172,126,42.6,Diabetes,Eggetarian,Moderate,3309,Diabetic Diet
+61,Male,170,41,14.2,Diabetes,Veg,High,2940,Diabetic Diet
+62,Female,160,124,48.4,None,Eggetarian,Low,3962,Low Carb Diet
+66,Male,156,49,20.1,Obesity,Non-Veg,High,2647,Low Carb Diet
+21,Female,176,88,28.4,Diabetes,Vegan,Low,2584,Diabetic Diet
+61,Male,179,55,17.2,Obesity,Vegan,Moderate,2402,Low Carb Diet
+34,Male,145,120,57.1,Hypertension,Non-Veg,Moderate,3833,DASH Diet
+50,Male,174,119,39.3,Hypertension,Veg,Moderate,1224,DASH Diet
+57,Female,166,78,28.3,Obesity,Veg,Low,2632,Low Carb Diet
+64,Male,170,85,29.4,None,Veg,Moderate,3215,Balanced Diet
+30,Male,178,105,33.1,Diabetes,Eggetarian,Low,3196,Diabetic Diet
+18,Male,194,124,32.9,Obesity,Non-Veg,Moderate,2819,Low Carb Diet
+41,Female,168,94,33.3,Diabetes,Vegan,Low,2996,Diabetic Diet
+60,Female,155,57,23.7,Obesity,Eggetarian,Low,2671,Low Carb Diet
+63,Male,152,64,27.7,Obesity,Veg,Low,2816,Low Carb Diet
+44,Female,147,60,27.8,Diabetes,Eggetarian,High,2288,Diabetic Diet
+25,Female,176,110,35.5,Hypertension,Non-Veg,Moderate,2837,DASH Diet
+50,Female,153,54,23.1,None,Veg,Low,1837,Balanced Diet
+40,Male,194,127,33.7,Diabetes,Veg,High,2601,Diabetic Diet
+45,Male,172,101,34.1,Obesity,Vegan,Moderate,1538,Low Carb Diet
+66,Female,160,119,46.5,Diabetes,Non-Veg,Low,2351,Diabetic Diet
+67,Male,161,129,49.8,Diabetes,Eggetarian,Low,3141,Diabetic Diet
+63,Male,189,104,29.1,Diabetes,Non-Veg,High,3776,Diabetic Diet
+58,Male,159,55,21.8,Diabetes,Eggetarian,Low,2321,Diabetic Diet
+30,Male,172,42,14.2,Diabetes,Veg,Low,2757,Diabetic Diet
+44,Female,189,121,33.9,Diabetes,Non-Veg,Moderate,2945,Diabetic Diet
+48,Male,177,94,30.0,None,Vegan,Low,2302,Vegan Diet
+41,Female,167,93,33.3,Diabetes,Vegan,Low,1944,Diabetic Diet
+20,Male,148,124,56.6,Obesity,Non-Veg,Moderate,3133,Low Carb Diet
+35,Male,172,63,21.3,Obesity,Eggetarian,Moderate,2569,Low Carb Diet
+37,Male,151,125,54.8,None,Non-Veg,Moderate,2676,Low Carb Diet
+65,Female,192,115,31.2,Obesity,Non-Veg,High,2330,Low Carb Diet
+31,Female,150,53,23.6,Diabetes,Veg,Low,3602,Diabetic Diet
+59,Male,157,130,52.7,Hypertension,Veg,Low,3438,DASH Diet
+57,Female,164,100,37.2,Diabetes,Non-Veg,Low,1723,Diabetic Diet
+30,Female,180,72,22.2,Obesity,Vegan,Moderate,3779,Low Carb Diet
+63,Male,172,48,16.2,Hypertension,Eggetarian,High,3263,DASH Diet
+68,Male,155,116,48.3,Obesity,Non-Veg,Moderate,1386,Low Carb Diet
+54,Male,195,128,33.7,Diabetes,Eggetarian,Moderate,3380,Diabetic Diet
+50,Male,155,96,40.0,Hypertension,Eggetarian,Moderate,3687,DASH Diet
+35,Male,156,40,16.4,Diabetes,Non-Veg,High,1236,Diabetic Diet
+68,Female,177,130,41.5,Obesity,Vegan,Low,2413,Low Carb Diet
+63,Female,180,55,17.0,Diabetes,Non-Veg,Low,3385,Diabetic Diet
+33,Female,147,121,56.0,Diabetes,Vegan,Low,2307,Diabetic Diet
+68,Male,186,71,20.5,Diabetes,Veg,Low,3856,Diabetic Diet
+40,Female,165,50,18.4,Obesity,Non-Veg,Moderate,3704,Low Carb Diet
+36,Female,148,120,54.8,None,Vegan,Low,2345,Low Carb Diet
+29,Female,146,108,50.7,None,Eggetarian,High,2254,Low Carb Diet
+58,Male,173,68,22.7,Obesity,Vegan,Low,3582,Low Carb Diet
+58,Female,154,97,40.9,Diabetes,Eggetarian,Moderate,1807,Diabetic Diet
+48,Male,176,63,20.3,Hypertension,Non-Veg,Low,1973,DASH Diet
+54,Female,191,63,17.3,Obesity,Veg,Moderate,1867,Low Carb Diet
+29,Female,188,117,33.1,Diabetes,Veg,Low,1495,Diabetic Diet
+45,Male,174,122,40.3,Hypertension,Veg,High,3357,DASH Diet
+26,Male,183,52,15.5,Hypertension,Eggetarian,Low,1650,DASH Diet
+70,Male,193,122,32.8,None,Non-Veg,Low,1542,Low Carb Diet
+35,Male,185,116,33.9,None,Veg,Low,3421,Low Carb Diet
+65,Female,190,50,13.9,Diabetes,Non-Veg,Moderate,3505,Diabetic Diet
+46,Male,164,82,30.5,Hypertension,Non-Veg,Low,1428,DASH Diet
+52,Female,185,109,31.8,None,Veg,Low,1621,Low Carb Diet
+52,Female,151,105,46.1,Hypertension,Non-Veg,Low,2118,DASH Diet
+19,Male,172,89,30.1,Diabetes,Vegan,High,2374,Diabetic Diet
+32,Female,188,54,15.3,Hypertension,Non-Veg,Low,2119,DASH Diet
+24,Female,167,49,17.6,Obesity,Veg,Moderate,1547,Low Carb Diet
+20,Male,156,94,38.6,Obesity,Non-Veg,High,2941,Low Carb Diet
+27,Female,184,76,22.4,Obesity,Veg,Moderate,3244,Low Carb Diet
+60,Female,161,49,18.9,None,Non-Veg,High,1800,High Protein Diet
+38,Male,169,97,34.0,Hypertension,Veg,Low,3566,DASH Diet
+45,Female,154,51,21.5,Obesity,Non-Veg,Low,2777,Low Carb Diet
+40,Female,176,94,30.3,Hypertension,Eggetarian,High,3807,DASH Diet
+39,Male,186,71,20.5,Hypertension,Eggetarian,High,3236,DASH Diet
+52,Female,179,108,33.7,Diabetes,Eggetarian,Low,3579,Diabetic Diet
+63,Female,178,113,35.7,Diabetes,Veg,Low,2681,Diabetic Diet
+18,Male,146,86,40.3,Hypertension,Non-Veg,Low,1444,DASH Diet
+40,Female,194,57,15.1,Obesity,Eggetarian,Low,3458,Low Carb Diet
+44,Male,158,68,27.2,None,Non-Veg,Low,1786,Balanced Diet
+42,Male,189,94,26.3,Obesity,Veg,High,1634,Low Carb Diet
+60,Male,175,116,37.9,Diabetes,Veg,Low,2696,Diabetic Diet
+27,Male,160,49,19.1,None,Eggetarian,Low,1947,Balanced Diet
+48,Male,192,107,29.0,Obesity,Eggetarian,Moderate,2581,Low Carb Diet
+46,Male,163,54,20.3,Diabetes,Veg,High,1331,Diabetic Diet
+56,Male,177,60,19.2,None,Eggetarian,Moderate,3984,Balanced Diet
+47,Female,181,104,31.7,Obesity,Non-Veg,Moderate,1842,Low Carb Diet
+35,Male,178,88,27.8,Diabetes,Non-Veg,Moderate,3735,Diabetic Diet
+21,Male,170,63,21.8,None,Eggetarian,Moderate,2482,Balanced Diet
+59,Female,169,61,21.4,None,Vegan,High,2937,High Protein Diet
+30,Female,151,53,23.2,None,Vegan,High,2574,High Protein Diet
+19,Male,163,60,22.6,None,Veg,Low,3645,Balanced Diet
+18,Female,157,110,44.6,Diabetes,Veg,Low,2302,Diabetic Diet
+23,Male,181,101,30.8,None,Veg,Moderate,1581,Low Carb Diet
+37,Male,167,76,27.3,Hypertension,Non-Veg,Moderate,2800,DASH Diet
+64,Female,153,129,55.1,None,Vegan,Moderate,3262,Low Carb Diet
+24,Male,146,115,54.0,Hypertension,Eggetarian,High,1353,DASH Diet
+36,Male,154,127,53.6,Hypertension,Veg,High,1582,DASH Diet
+63,Male,158,127,50.9,Diabetes,Non-Veg,High,3314,Diabetic Diet
+64,Female,173,56,18.7,Obesity,Vegan,Moderate,3753,Low Carb Diet
+45,Male,190,127,35.2,Hypertension,Non-Veg,Low,3700,DASH Diet
+56,Male,154,112,47.2,Hypertension,Veg,Low,1784,DASH Diet
+67,Female,180,51,15.7,Hypertension,Veg,Moderate,2484,DASH Diet
+28,Female,155,48,20.0,Obesity,Vegan,Moderate,1565,Low Carb Diet
+22,Male,190,98,27.1,Obesity,Eggetarian,Moderate,3010,Low Carb Diet
+59,Male,152,112,48.5,Hypertension,Veg,Moderate,2374,DASH Diet
+43,Female,184,127,37.5,Diabetes,Eggetarian,Moderate,3299,Diabetic Diet
+57,Female,168,50,17.7,Hypertension,Eggetarian,Moderate,3995,DASH Diet
+20,Male,192,71,19.3,None,Non-Veg,Low,2390,Balanced Diet
+42,Male,181,91,27.8,None,Non-Veg,Moderate,3093,Balanced Diet
+60,Male,167,99,35.5,Hypertension,Eggetarian,Low,1551,DASH Diet
+29,Male,170,95,32.9,Diabetes,Eggetarian,Moderate,1464,Diabetic Diet
+38,Female,183,102,30.5,Diabetes,Eggetarian,Low,2340,Diabetic Diet
+47,Male,179,59,18.4,Hypertension,Non-Veg,High,2074,DASH Diet
+38,Male,183,88,26.3,None,Vegan,Moderate,3139,Vegan Diet
+31,Male,158,42,16.8,Hypertension,Vegan,Moderate,3803,DASH Diet
+29,Male,154,48,20.2,Obesity,Eggetarian,Low,2421,Low Carb Diet
+63,Female,171,107,36.6,Diabetes,Vegan,Low,1420,Diabetic Diet
+23,Female,166,78,28.3,Diabetes,Non-Veg,Moderate,2916,Diabetic Diet
+48,Female,179,128,39.9,Diabetes,Eggetarian,Moderate,3536,Diabetic Diet
+42,Male,180,116,35.8,Diabetes,Veg,High,3935,Diabetic Diet
+55,Male,165,125,45.9,Obesity,Veg,Low,3078,Low Carb Diet
+27,Female,165,54,19.8,Hypertension,Vegan,High,1215,DASH Diet
+46,Male,185,97,28.3,None,Veg,Low,1968,Balanced Diet
+44,Male,183,88,26.3,Diabetes,Vegan,Low,1982,Diabetic Diet
+61,Male,168,86,30.5,None,Vegan,Moderate,3256,Low Carb Diet
+70,Male,189,103,28.8,Hypertension,Eggetarian,Moderate,2640,DASH Diet
+40,Female,178,82,25.9,None,Non-Veg,Moderate,2954,Balanced Diet
+41,Male,180,116,35.8,Diabetes,Eggetarian,Moderate,2367,Diabetic Diet
+60,Female,185,76,22.2,None,Veg,Low,1567,Balanced Diet
+59,Male,184,92,27.2,None,Eggetarian,High,3755,High Protein Diet
+52,Male,185,96,28.0,None,Vegan,Moderate,2067,Vegan Diet
+32,Female,180,88,27.2,None,Non-Veg,Moderate,1709,Balanced Diet
+40,Female,171,122,41.7,Hypertension,Veg,Moderate,2117,DASH Diet
+50,Female,162,124,47.2,Obesity,Vegan,Moderate,3957,Low Carb Diet
+33,Male,171,44,15.0,None,Veg,Low,2733,Balanced Diet
+70,Female,166,61,22.1,Hypertension,Non-Veg,High,2803,DASH Diet
+30,Female,148,113,51.6,Hypertension,Non-Veg,High,2799,DASH Diet
+64,Male,170,80,27.7,Diabetes,Eggetarian,Low,1607,Diabetic Diet
+63,Male,177,55,17.6,Hypertension,Vegan,High,1851,DASH Diet
+38,Male,150,51,22.7,None,Eggetarian,Low,3775,Balanced Diet
+67,Male,146,119,55.8,None,Eggetarian,Low,1734,Low Carb Diet
+47,Female,156,70,28.8,Diabetes,Vegan,Low,3393,Diabetic Diet
+33,Female,194,73,19.4,None,Vegan,Low,1788,Vegan Diet
+58,Male,185,114,33.3,None,Veg,Moderate,3640,Low Carb Diet
+25,Male,154,76,32.0,Obesity,Non-Veg,Low,1516,Low Carb Diet
+49,Female,158,90,36.1,None,Eggetarian,Low,2894,Low Carb Diet
+22,Female,185,49,14.3,Diabetes,Eggetarian,Moderate,2484,Diabetic Diet
+58,Female,155,63,26.2,Obesity,Veg,Low,3901,Low Carb Diet
+54,Male,152,83,35.9,Obesity,Eggetarian,High,3657,Low Carb Diet
+52,Male,155,106,44.1,Obesity,Veg,Low,3682,Low Carb Diet
+19,Male,178,105,33.1,Diabetes,Non-Veg,Moderate,1670,Diabetic Diet
+31,Male,165,57,20.9,Diabetes,Veg,High,1718,Diabetic Diet
+35,Female,175,65,21.2,None,Vegan,High,3458,High Protein Diet
+59,Female,174,103,34.0,Hypertension,Eggetarian,Low,2224,DASH Diet
+29,Male,188,75,21.2,Hypertension,Veg,High,3606,DASH Diet
+37,Male,195,66,17.4,Hypertension,Eggetarian,Moderate,2935,DASH Diet
+56,Female,165,119,43.7,None,Eggetarian,Moderate,2018,Low Carb Diet
+54,Female,168,120,42.5,None,Eggetarian,Low,1338,Low Carb Diet
+50,Female,182,92,27.8,Obesity,Vegan,Moderate,1322,Low Carb Diet
+25,Male,165,94,34.5,Diabetes,Vegan,Low,1497,Diabetic Diet
+31,Female,168,58,20.5,Obesity,Veg,Low,2504,Low Carb Diet
+62,Male,190,82,22.7,Diabetes,Eggetarian,High,2517,Diabetic Diet
+32,Male,169,76,26.6,Diabetes,Non-Veg,Low,3497,Diabetic Diet
+35,Male,181,122,37.2,Hypertension,Eggetarian,Moderate,2511,DASH Diet
+30,Male,148,103,47.0,Hypertension,Veg,Moderate,2925,DASH Diet
+25,Male,173,61,20.4,Obesity,Eggetarian,Low,3560,Low Carb Diet
+19,Female,146,122,57.2,None,Eggetarian,Moderate,1736,Low Carb Diet
+43,Male,179,107,33.4,None,Vegan,High,1266,Low Carb Diet
+22,Female,151,93,40.8,Obesity,Vegan,Moderate,2616,Low Carb Diet
+43,Male,180,80,24.7,Hypertension,Veg,Moderate,2422,DASH Diet
+62,Female,176,122,39.4,None,Vegan,High,1620,Low Carb Diet
+19,Male,148,41,18.7,Diabetes,Veg,Moderate,2984,Diabetic Diet
+32,Male,150,64,28.4,Obesity,Veg,High,1415,Low Carb Diet
+34,Male,152,46,19.9,Obesity,Veg,Moderate,2548,Low Carb Diet
+62,Female,162,129,49.2,Diabetes,Non-Veg,High,3087,Diabetic Diet
+25,Male,165,58,21.3,Hypertension,Eggetarian,High,1701,DASH Diet
+51,Male,181,101,30.8,Hypertension,Vegan,Moderate,3177,DASH Diet
+32,Male,161,77,29.7,None,Vegan,High,2192,High Protein Diet
+60,Male,189,49,13.7,None,Eggetarian,Low,2070,Balanced Diet
+18,Male,174,89,29.4,Diabetes,Eggetarian,Low,2594,Diabetic Diet
+31,Female,193,79,21.2,Hypertension,Non-Veg,High,1632,DASH Diet
+26,Male,168,89,31.5,Hypertension,Non-Veg,Moderate,1969,DASH Diet
+22,Female,172,61,20.6,Obesity,Veg,Low,3088,Low Carb Diet
+24,Male,160,42,16.4,Hypertension,Non-Veg,Moderate,1317,DASH Diet
+48,Female,167,73,26.2,None,Veg,Moderate,2967,Balanced Diet
+31,Male,170,104,36.0,Hypertension,Vegan,Low,3007,DASH Diet
+35,Female,151,46,20.2,Hypertension,Eggetarian,Low,2404,DASH Diet
+30,Female,156,116,47.7,Obesity,Eggetarian,High,2975,Low Carb Diet
+24,Male,186,71,20.5,None,Non-Veg,Low,1417,Balanced Diet
+20,Female,160,48,18.7,None,Vegan,Low,3740,Vegan Diet
+62,Female,170,90,31.1,None,Non-Veg,High,2298,Low Carb Diet
+49,Male,155,66,27.5,Obesity,Vegan,High,3642,Low Carb Diet
+36,Male,151,63,27.6,Hypertension,Vegan,High,2177,DASH Diet
+28,Female,188,48,13.6,Diabetes,Non-Veg,Moderate,3064,Diabetic Diet
+27,Male,187,100,28.6,Hypertension,Vegan,Low,1927,DASH Diet
+34,Male,155,126,52.4,None,Vegan,Moderate,3588,Low Carb Diet
+18,Female,160,100,39.1,None,Veg,Low,3523,Low Carb Diet
+61,Female,159,107,42.3,Diabetes,Non-Veg,Low,1609,Diabetic Diet
+37,Female,173,102,34.1,Obesity,Vegan,High,3192,Low Carb Diet
+34,Female,174,41,13.5,Obesity,Vegan,High,2566,Low Carb Diet
+51,Female,152,74,32.0,None,Non-Veg,Moderate,2102,Low Carb Diet
+60,Male,167,103,36.9,None,Non-Veg,High,2964,Low Carb Diet
+41,Male,192,51,13.8,Diabetes,Eggetarian,High,1642,Diabetic Diet
+35,Female,178,62,19.6,Obesity,Vegan,Moderate,2801,Low Carb Diet
+55,Female,162,79,30.1,Diabetes,Veg,High,3330,Diabetic Diet
+62,Female,184,55,16.2,Hypertension,Eggetarian,High,2621,DASH Diet
+36,Male,145,103,49.0,Diabetes,Eggetarian,High,1815,Diabetic Diet
+51,Female,184,111,32.8,Diabetes,Vegan,Moderate,2380,Diabetic Diet
+22,Female,145,98,46.6,None,Non-Veg,Moderate,3629,Low Carb Diet
+25,Male,176,79,25.5,None,Eggetarian,Moderate,3904,Balanced Diet
+18,Male,161,57,22.0,Obesity,Vegan,High,3925,Low Carb Diet
+67,Male,150,74,32.9,Diabetes,Non-Veg,Moderate,3597,Diabetic Diet
+23,Female,159,44,17.4,Hypertension,Vegan,Low,3979,DASH Diet
+58,Female,172,91,30.8,None,Vegan,Moderate,3645,Low Carb Diet
+37,Male,181,95,29.0,Obesity,Non-Veg,High,2017,Low Carb Diet
+34,Male,171,110,37.6,Diabetes,Vegan,Moderate,1550,Diabetic Diet
+37,Female,179,63,19.7,Hypertension,Eggetarian,Low,1767,DASH Diet
+51,Female,189,80,22.4,Obesity,Eggetarian,Moderate,2951,Low Carb Diet
+47,Female,171,99,33.9,None,Veg,Moderate,1562,Low Carb Diet
+66,Male,184,78,23.0,Diabetes,Vegan,Low,3743,Diabetic Diet
+52,Female,148,90,41.1,Diabetes,Eggetarian,High,1224,Diabetic Diet
+47,Female,148,50,22.8,None,Vegan,High,1638,High Protein Diet
+39,Male,163,112,42.2,Hypertension,Vegan,Low,1697,DASH Diet
+65,Male,189,66,18.5,Diabetes,Eggetarian,Low,2115,Diabetic Diet
+61,Male,164,120,44.6,Obesity,Veg,Moderate,3754,Low Carb Diet
+62,Male,152,48,20.8,None,Non-Veg,High,1695,High Protein Diet
+51,Male,160,66,25.8,None,Eggetarian,Low,3271,Balanced Diet
+46,Female,148,55,25.1,Obesity,Eggetarian,Moderate,1953,Low Carb Diet
+70,Male,179,73,22.8,Hypertension,Veg,Moderate,1799,DASH Diet
+58,Male,156,58,23.8,Diabetes,Non-Veg,High,3439,Diabetic Diet
+30,Female,175,77,25.1,Obesity,Veg,High,3219,Low Carb Diet
+41,Female,170,89,30.8,None,Eggetarian,Moderate,2940,Low Carb Diet
+27,Male,163,98,36.9,None,Eggetarian,Low,3577,Low Carb Diet
+37,Male,186,123,35.6,Hypertension,Veg,Moderate,1770,DASH Diet
+47,Female,162,41,15.6,Diabetes,Vegan,High,3261,Diabetic Diet
+31,Female,190,107,29.6,Hypertension,Veg,Low,3886,DASH Diet
+27,Female,186,112,32.4,Obesity,Eggetarian,High,1773,Low Carb Diet
+35,Female,170,48,16.6,Hypertension,Eggetarian,Moderate,3681,DASH Diet
+60,Male,181,130,39.7,Obesity,Non-Veg,High,2527,Low Carb Diet
+55,Female,182,119,35.9,Hypertension,Veg,Low,1320,DASH Diet
+64,Male,159,52,20.6,None,Eggetarian,High,3151,High Protein Diet
+38,Male,194,70,18.6,None,Non-Veg,High,2773,High Protein Diet
+66,Female,149,47,21.2,Obesity,Veg,Low,1498,Low Carb Diet
+46,Female,183,120,35.8,None,Non-Veg,Moderate,1640,Low Carb Diet
+62,Female,169,57,20.0,Diabetes,Non-Veg,Moderate,3211,Diabetic Diet
+46,Female,159,65,25.7,Diabetes,Eggetarian,High,1987,Diabetic Diet
+23,Male,185,125,36.5,None,Non-Veg,Low,1775,Low Carb Diet
+18,Female,194,92,24.4,None,Vegan,Low,3994,Vegan Diet
+64,Female,157,66,26.8,Hypertension,Vegan,Moderate,3733,DASH Diet
+53,Male,149,96,43.2,Hypertension,Eggetarian,Low,3531,DASH Diet
+23,Male,195,106,27.9,Obesity,Veg,Low,3242,Low Carb Diet
+32,Male,183,109,32.5,Obesity,Veg,Low,2387,Low Carb Diet
+34,Female,190,85,23.5,None,Non-Veg,Moderate,1506,Balanced Diet
+52,Male,178,118,37.2,Obesity,Eggetarian,High,1432,Low Carb Diet
+52,Male,182,100,30.2,Obesity,Veg,Low,2584,Low Carb Diet
+44,Female,157,82,33.3,None,Non-Veg,Low,3440,Low Carb Diet
+70,Female,193,124,33.3,None,Non-Veg,Moderate,1498,Low Carb Diet
+69,Male,167,49,17.6,Hypertension,Veg,High,3161,DASH Diet
+26,Female,191,45,12.3,None,Veg,Moderate,3279,Balanced Diet
+32,Female,172,101,34.1,Obesity,Non-Veg,Low,1426,Low Carb Diet
+19,Male,179,117,36.5,Hypertension,Veg,High,3174,DASH Diet
+21,Female,194,88,23.4,Diabetes,Eggetarian,High,2948,Diabetic Diet
+53,Male,152,96,41.6,None,Vegan,Moderate,1993,Low Carb Diet
+39,Female,148,70,32.0,Diabetes,Veg,High,1241,Diabetic Diet
+32,Female,192,108,29.3,None,Veg,High,2223,High Protein Diet
+70,Male,149,47,21.2,Diabetes,Eggetarian,Low,2357,Diabetic Diet
+20,Female,167,117,42.0,Diabetes,Vegan,Low,3682,Diabetic Diet
+43,Female,187,55,15.7,None,Veg,Moderate,3426,Balanced Diet
+31,Female,190,85,23.5,Diabetes,Eggetarian,High,2439,Diabetic Diet
+41,Female,186,71,20.5,Obesity,Vegan,High,3417,Low Carb Diet
+50,Male,148,84,38.3,Hypertension,Eggetarian,Moderate,1521,DASH Diet
+31,Male,178,69,21.8,Obesity,Non-Veg,Low,2725,Low Carb Diet
+64,Male,147,70,32.4,Hypertension,Eggetarian,Low,1287,DASH Diet
+49,Male,162,75,28.6,Hypertension,Vegan,Low,1444,DASH Diet
+35,Female,176,42,13.6,Hypertension,Eggetarian,Moderate,1381,DASH Diet
+32,Male,169,63,22.1,Hypertension,Veg,High,2449,DASH Diet
+20,Female,146,117,54.9,Obesity,Vegan,High,2086,Low Carb Diet
+66,Male,166,119,43.2,Hypertension,Eggetarian,High,1433,DASH Diet
+69,Male,180,89,27.5,Obesity,Eggetarian,Moderate,3545,Low Carb Diet
+64,Female,155,88,36.6,Hypertension,Non-Veg,Low,1262,DASH Diet
+35,Female,150,71,31.6,Obesity,Vegan,High,2816,Low Carb Diet
+20,Female,168,74,26.2,Obesity,Veg,Low,2457,Low Carb Diet
+54,Female,161,62,23.9,Hypertension,Eggetarian,Low,3001,DASH Diet
+18,Female,147,85,39.3,Hypertension,Non-Veg,Moderate,1439,DASH Diet
+55,Male,162,118,45.0,Obesity,Veg,Moderate,1936,Low Carb Diet
+34,Female,161,103,39.7,Diabetes,Non-Veg,High,1914,Diabetic Diet
+27,Male,159,54,21.4,None,Non-Veg,High,3275,High Protein Diet
+46,Female,147,110,50.9,Diabetes,Veg,High,2261,Diabetic Diet
+34,Male,188,85,24.0,None,Non-Veg,Moderate,1647,Balanced Diet
+22,Female,152,105,45.4,None,Non-Veg,Low,2534,Low Carb Diet
+54,Female,188,93,26.3,None,Eggetarian,Moderate,1786,Balanced Diet
+19,Female,183,86,25.7,Obesity,Eggetarian,High,2734,Low Carb Diet
+48,Female,184,43,12.7,Diabetes,Vegan,Low,2391,Diabetic Diet
+27,Male,151,117,51.3,Diabetes,Vegan,High,3281,Diabetic Diet
+68,Female,158,88,35.3,None,Non-Veg,Moderate,3859,Low Carb Diet
+23,Male,159,112,44.3,Hypertension,Veg,High,1410,DASH Diet
+56,Female,187,107,30.6,Hypertension,Vegan,Moderate,1998,DASH Diet
+54,Female,160,82,32.0,Diabetes,Vegan,Low,3067,Diabetic Diet
+38,Male,189,70,19.6,Hypertension,Eggetarian,Moderate,1526,DASH Diet
+40,Male,168,123,43.6,Hypertension,Non-Veg,Moderate,2915,DASH Diet
+32,Male,179,71,22.2,Hypertension,Non-Veg,High,2266,DASH Diet
+68,Female,166,80,29.0,None,Veg,Moderate,2924,Balanced Diet
+50,Male,181,103,31.4,Diabetes,Non-Veg,Moderate,1263,Diabetic Diet
+28,Male,171,73,25.0,Hypertension,Veg,Low,1339,DASH Diet
+45,Male,189,61,17.1,None,Non-Veg,High,3368,High Protein Diet
+42,Female,167,56,20.1,Hypertension,Non-Veg,High,2401,DASH Diet
+25,Female,166,115,41.7,None,Veg,Low,2653,Low Carb Diet
+46,Female,185,97,28.3,Hypertension,Vegan,Moderate,1751,DASH Diet
+64,Male,191,115,31.5,None,Non-Veg,Low,3631,Low Carb Diet
+55,Female,188,123,34.8,Hypertension,Eggetarian,Moderate,2996,DASH Diet
+29,Female,194,52,13.8,Diabetes,Vegan,Moderate,2597,Diabetic Diet
+21,Female,163,81,30.5,Hypertension,Vegan,Low,1786,DASH Diet
+20,Male,172,106,35.8,Obesity,Vegan,Low,2622,Low Carb Diet
+36,Male,152,76,32.9,Obesity,Eggetarian,Moderate,2116,Low Carb Diet
+28,Female,161,117,45.1,None,Non-Veg,High,2341,Low Carb Diet
+27,Male,158,110,44.1,Diabetes,Veg,High,1362,Diabetic Diet
+52,Male,145,102,48.5,None,Vegan,Low,2354,Low Carb Diet
+54,Female,191,96,26.3,Diabetes,Eggetarian,Moderate,1648,Diabetic Diet
+63,Male,173,95,31.7,Hypertension,Vegan,Low,1760,DASH Diet
+35,Male,167,50,17.9,Diabetes,Veg,Moderate,1841,Diabetic Diet
+50,Female,162,98,37.3,None,Vegan,Low,2975,Low Carb Diet
+24,Female,157,111,45.0,None,Veg,Low,1760,Low Carb Diet
+55,Female,159,126,49.8,Diabetes,Vegan,Moderate,1820,Diabetic Diet
+49,Male,191,103,28.2,Obesity,Non-Veg,Low,3800,Low Carb Diet
+23,Male,145,95,45.2,None,Eggetarian,High,3703,Low Carb Diet
+31,Male,147,93,43.0,Obesity,Eggetarian,High,3591,Low Carb Diet
+33,Female,175,107,34.9,Diabetes,Vegan,Low,2396,Diabetic Diet
+60,Female,176,120,38.7,Hypertension,Vegan,High,3170,DASH Diet
+36,Male,159,54,21.4,Obesity,Eggetarian,Moderate,2532,Low Carb Diet
+33,Female,152,62,26.8,Hypertension,Vegan,High,1665,DASH Diet
+40,Female,190,56,15.5,Hypertension,Eggetarian,High,2887,DASH Diet
+61,Male,146,77,36.1,Obesity,Non-Veg,Moderate,1449,Low Carb Diet
+53,Female,161,126,48.6,Obesity,Eggetarian,Moderate,3010,Low Carb Diet
+45,Female,161,46,17.7,Obesity,Eggetarian,High,2096,Low Carb Diet
+39,Male,164,97,36.1,Hypertension,Non-Veg,High,1882,DASH Diet
+52,Male,194,120,31.9,None,Vegan,Low,3677,Low Carb Diet
+52,Male,191,42,11.5,Hypertension,Veg,High,2565,DASH Diet
+40,Male,186,46,13.3,Diabetes,Vegan,High,2012,Diabetic Diet
+28,Female,190,69,19.1,Obesity,Non-Veg,Moderate,2557,Low Carb Diet
+44,Male,180,71,21.9,None,Veg,Low,3356,Balanced Diet
+24,Female,195,102,26.8,None,Non-Veg,Moderate,2434,Balanced Diet
+19,Male,185,128,37.4,Diabetes,Veg,Moderate,1706,Diabetic Diet
+70,Female,186,91,26.3,Diabetes,Vegan,Low,1513,Diabetic Diet
+22,Female,146,41,19.2,Diabetes,Veg,High,3609,Diabetic Diet
+68,Female,157,117,47.5,Obesity,Vegan,Moderate,3298,Low Carb Diet
+65,Male,164,75,27.9,Hypertension,Non-Veg,Low,2282,DASH Diet
+59,Female,169,77,27.0,Hypertension,Veg,Low,2864,DASH Diet
+53,Female,175,76,24.8,Diabetes,Eggetarian,Low,3235,Diabetic Diet
+64,Female,168,109,38.6,None,Eggetarian,Low,3566,Low Carb Diet
+19,Female,194,69,18.3,Hypertension,Vegan,Moderate,3506,DASH Diet
+24,Female,166,58,21.0,None,Veg,High,1893,High Protein Diet
+31,Female,182,71,21.4,None,Non-Veg,Moderate,3725,Balanced Diet
+48,Male,148,103,47.0,Obesity,Eggetarian,Moderate,2583,Low Carb Diet
+27,Male,165,128,47.0,Hypertension,Veg,Moderate,2056,DASH Diet
+66,Female,179,103,32.1,Obesity,Non-Veg,Moderate,3089,Low Carb Diet
+63,Female,177,111,35.4,None,Veg,Moderate,1517,Low Carb Diet
+42,Male,193,41,11.0,Diabetes,Veg,Low,2008,Diabetic Diet
+46,Male,147,94,43.5,Hypertension,Non-Veg,High,3348,DASH Diet
+49,Male,192,110,29.8,Hypertension,Eggetarian,Low,2415,DASH Diet
+25,Female,163,126,47.4,Obesity,Vegan,High,2722,Low Carb Diet
+54,Male,154,77,32.5,Diabetes,Vegan,High,3676,Diabetic Diet
+34,Female,174,66,21.8,Obesity,Non-Veg,Low,3347,Low Carb Diet
+63,Female,145,80,38.0,Hypertension,Non-Veg,Low,3127,DASH Diet
+22,Male,164,129,48.0,Diabetes,Non-Veg,High,1584,Diabetic Diet
+52,Female,166,52,18.9,None,Eggetarian,High,1840,High Protein Diet
+22,Female,185,111,32.4,Diabetes,Vegan,High,1257,Diabetic Diet
+30,Female,163,94,35.4,Obesity,Vegan,High,2851,Low Carb Diet
+34,Male,149,115,51.8,Diabetes,Veg,High,2086,Diabetic Diet
+35,Male,161,112,43.2,None,Non-Veg,High,3605,Low Carb Diet
+59,Female,166,113,41.0,Obesity,Eggetarian,Low,1888,Low Carb Diet
+18,Male,158,51,20.4,Diabetes,Non-Veg,Low,3147,Diabetic Diet
+18,Female,149,46,20.7,Diabetes,Eggetarian,Moderate,3923,Diabetic Diet
+48,Female,164,104,38.7,None,Non-Veg,High,2810,Low Carb Diet
+42,Female,190,100,27.7,Obesity,Vegan,High,2498,Low Carb Diet
+51,Male,183,67,20.0,Diabetes,Vegan,High,1785,Diabetic Diet
+45,Female,176,128,41.3,Obesity,Veg,High,2983,Low Carb Diet
+59,Female,156,43,17.7,Obesity,Eggetarian,High,2617,Low Carb Diet
+64,Female,158,118,47.3,Diabetes,Eggetarian,Moderate,1933,Diabetic Diet
+65,Male,157,96,38.9,Obesity,Non-Veg,Low,3601,Low Carb Diet
+37,Female,151,87,38.2,Obesity,Veg,High,2318,Low Carb Diet
+20,Female,186,101,29.2,Hypertension,Veg,High,2236,DASH Diet
+35,Male,181,43,13.1,Hypertension,Eggetarian,Moderate,1911,DASH Diet
+48,Male,147,87,40.3,None,Non-Veg,High,1924,Low Carb Diet
+26,Male,171,55,18.8,None,Eggetarian,High,1455,High Protein Diet
+38,Male,179,75,23.4,Diabetes,Veg,Moderate,3952,Diabetic Diet
+38,Male,182,86,26.0,None,Eggetarian,Moderate,3934,Balanced Diet
+60,Male,149,64,28.8,Diabetes,Vegan,Low,1906,Diabetic Diet
+46,Male,162,117,44.6,Diabetes,Eggetarian,Low,3802,Diabetic Diet
+65,Male,164,75,27.9,Obesity,Veg,Moderate,3109,Low Carb Diet
+54,Male,181,99,30.2,None,Veg,Low,1947,Low Carb Diet
+64,Male,156,80,32.9,None,Non-Veg,Low,2090,Low Carb Diet
+58,Female,174,50,16.5,Diabetes,Vegan,High,3830,Diabetic Diet
+30,Male,164,46,17.1,Hypertension,Vegan,Low,2342,DASH Diet
+26,Female,171,68,23.3,Diabetes,Vegan,Low,1925,Diabetic Diet
+36,Female,189,96,26.9,Obesity,Veg,Moderate,2654,Low Carb Diet
+55,Female,167,122,43.7,Hypertension,Non-Veg,Low,3597,DASH Diet
+42,Male,179,112,35.0,Diabetes,Eggetarian,Moderate,3846,Diabetic Diet
+69,Female,158,83,33.2,Obesity,Veg,High,2063,Low Carb Diet
+34,Male,174,73,24.1,None,Veg,High,3896,High Protein Diet
+58,Male,175,57,18.6,Hypertension,Vegan,Moderate,3509,DASH Diet
+42,Male,165,129,47.4,None,Vegan,Low,1850,Low Carb Diet
+44,Female,166,83,30.1,None,Non-Veg,Moderate,2454,Low Carb Diet
+28,Female,179,63,19.7,None,Eggetarian,High,3069,High Protein Diet
+55,Female,191,91,24.9,Hypertension,Non-Veg,Moderate,2728,DASH Diet
+56,Female,175,126,41.1,Hypertension,Vegan,Low,2159,DASH Diet
+66,Male,171,94,32.1,Obesity,Eggetarian,High,1316,Low Carb Diet
+28,Male,164,116,43.1,Diabetes,Non-Veg,Low,3917,Diabetic Diet
+39,Male,150,79,35.1,Diabetes,Vegan,Moderate,2821,Diabetic Diet
+28,Female,145,124,59.0,Diabetes,Non-Veg,Low,2434,Diabetic Diet
+37,Male,156,70,28.8,Diabetes,Eggetarian,Low,2202,Diabetic Diet
+27,Female,145,101,48.0,Diabetes,Vegan,Low,3128,Diabetic Diet
+53,Female,189,67,18.8,Hypertension,Eggetarian,Moderate,2194,DASH Diet
+66,Male,169,56,19.6,Obesity,Non-Veg,Moderate,2539,Low Carb Diet
+36,Female,183,90,26.9,None,Vegan,Moderate,3943,Vegan Diet
+65,Male,159,117,46.3,Diabetes,Non-Veg,Moderate,2683,Diabetic Diet
+39,Male,184,116,34.3,Hypertension,Veg,High,2142,DASH Diet
+26,Female,157,45,18.3,Diabetes,Vegan,Moderate,1580,Diabetic Diet
+39,Female,186,63,18.2,Hypertension,Non-Veg,Moderate,2474,DASH Diet
+42,Female,147,73,33.8,Hypertension,Non-Veg,Low,2831,DASH Diet
+61,Male,174,50,16.5,Obesity,Veg,High,2856,Low Carb Diet
+69,Male,155,80,33.3,Diabetes,Eggetarian,High,3062,Diabetic Diet
+18,Female,186,125,36.1,Hypertension,Eggetarian,Low,2440,DASH Diet
+45,Female,192,121,32.8,None,Eggetarian,High,2727,Low Carb Diet
+67,Female,190,82,22.7,Obesity,Veg,Low,2936,Low Carb Diet
+52,Female,188,50,14.1,Diabetes,Veg,Moderate,3617,Diabetic Diet
+34,Male,177,118,37.7,Hypertension,Eggetarian,Low,3103,DASH Diet
+36,Male,152,102,44.1,Hypertension,Vegan,Low,3654,DASH Diet
+61,Female,161,94,36.3,Obesity,Vegan,Low,3423,Low Carb Diet
+35,Male,163,85,32.0,Hypertension,Veg,Moderate,2529,DASH Diet
+37,Male,183,54,16.1,Obesity,Veg,High,2822,Low Carb Diet
+33,Male,150,108,48.0,None,Non-Veg,High,1792,Low Carb Diet
+58,Female,172,75,25.4,Obesity,Eggetarian,High,3728,Low Carb Diet
+33,Female,147,49,22.7,Obesity,Vegan,Low,1801,Low Carb Diet
+56,Male,169,105,36.8,None,Vegan,High,2436,Low Carb Diet
+45,Female,146,63,29.6,Obesity,Veg,Moderate,1676,Low Carb Diet
+68,Male,181,73,22.3,Obesity,Non-Veg,High,1400,Low Carb Diet
+41,Female,158,95,38.1,Obesity,Non-Veg,Moderate,3254,Low Carb Diet
+60,Male,183,91,27.2,Diabetes,Vegan,Moderate,1220,Diabetic Diet
+44,Male,146,93,43.6,Diabetes,Vegan,Moderate,3094,Diabetic Diet
+56,Female,151,68,29.8,Diabetes,Veg,High,2529,Diabetic Diet
+32,Male,184,76,22.4,Hypertension,Eggetarian,High,3638,DASH Diet
+39,Female,175,111,36.2,None,Vegan,Moderate,2509,Low Carb Diet
+40,Female,154,99,41.7,Hypertension,Non-Veg,High,1896,DASH Diet
+61,Female,161,91,35.1,None,Veg,High,3192,Low Carb Diet
+53,Female,150,66,29.3,Obesity,Vegan,Moderate,2491,Low Carb Diet
+46,Female,146,59,27.7,Diabetes,Vegan,High,2967,Diabetic Diet
+44,Male,193,76,20.4,Hypertension,Non-Veg,Moderate,3401,DASH Diet
+26,Female,183,55,16.4,None,Eggetarian,Low,2065,Balanced Diet
+25,Female,156,60,24.7,Hypertension,Eggetarian,Moderate,2091,DASH Diet
+44,Female,165,86,31.6,None,Vegan,High,3393,Low Carb Diet
+52,Female,159,91,36.0,Hypertension,Eggetarian,Moderate,3040,DASH Diet
+28,Male,170,76,26.3,None,Vegan,Moderate,3887,Vegan Diet
+29,Male,169,114,39.9,Hypertension,Eggetarian,Moderate,1973,DASH Diet
+58,Male,184,68,20.1,Diabetes,Veg,High,3537,Diabetic Diet
+64,Female,146,81,38.0,Diabetes,Non-Veg,High,3762,Diabetic Diet
+48,Male,168,42,14.9,Hypertension,Non-Veg,Low,3075,DASH Diet
+41,Male,156,100,41.1,Diabetes,Vegan,Low,2400,Diabetic Diet
+22,Male,158,113,45.3,Hypertension,Eggetarian,Low,4000,DASH Diet
+56,Female,160,62,24.2,Hypertension,Veg,High,2556,DASH Diet
+28,Male,174,48,15.9,None,Veg,High,3972,High Protein Diet
+44,Female,169,49,17.2,Hypertension,Vegan,High,3400,DASH Diet
+25,Male,173,101,33.7,None,Vegan,Moderate,1363,Low Carb Diet
+41,Female,190,105,29.1,Hypertension,Eggetarian,Low,1624,DASH Diet
+27,Female,193,114,30.6,None,Non-Veg,Moderate,2891,Low Carb Diet
+60,Female,154,71,29.9,Hypertension,Non-Veg,Moderate,1597,DASH Diet
+39,Male,174,130,42.9,Hypertension,Non-Veg,Moderate,2602,DASH Diet
+36,Female,166,97,35.2,Obesity,Vegan,High,1346,Low Carb Diet
+66,Male,154,106,44.7,Obesity,Veg,Low,2719,Low Carb Diet
+54,Female,190,77,21.3,Obesity,Non-Veg,High,3796,Low Carb Diet
+37,Female,190,96,26.6,Obesity,Non-Veg,High,1726,Low Carb Diet
+27,Female,169,72,25.2,Diabetes,Veg,Low,3588,Diabetic Diet
+37,Male,182,41,12.4,Obesity,Vegan,High,3283,Low Carb Diet
+65,Female,175,119,38.9,Diabetes,Vegan,High,1838,Diabetic Diet
+55,Female,178,87,27.5,Hypertension,Eggetarian,High,1892,DASH Diet
+51,Female,156,101,41.5,Hypertension,Veg,High,1465,DASH Diet
+39,Male,164,66,24.5,Diabetes,Non-Veg,Moderate,3692,Diabetic Diet
+67,Male,186,65,18.8,Obesity,Eggetarian,Moderate,3532,Low Carb Diet
+58,Male,192,107,29.0,Diabetes,Non-Veg,Moderate,3920,Diabetic Diet
+20,Female,185,52,15.2,Obesity,Veg,Moderate,3466,Low Carb Diet
+52,Male,148,97,44.3,Diabetes,Non-Veg,Moderate,1948,Diabetic Diet
+62,Male,159,128,50.6,Hypertension,Non-Veg,Low,3695,DASH Diet
+35,Female,150,64,28.4,None,Non-Veg,High,2440,High Protein Diet
+21,Male,159,71,28.1,Hypertension,Eggetarian,Low,3399,DASH Diet
+68,Male,165,121,44.4,None,Non-Veg,Moderate,1676,Low Carb Diet
+46,Male,175,65,21.2,None,Non-Veg,High,3195,High Protein Diet
+37,Male,182,95,28.7,None,Eggetarian,High,1997,High Protein Diet
+55,Female,145,72,34.2,Hypertension,Vegan,Moderate,3785,DASH Diet
+29,Female,177,101,32.2,Obesity,Vegan,Moderate,3379,Low Carb Diet
+33,Female,162,126,48.0,Obesity,Eggetarian,Low,1946,Low Carb Diet
+49,Male,165,105,38.6,Hypertension,Eggetarian,Low,1932,DASH Diet
+22,Female,188,78,22.1,None,Eggetarian,Moderate,3812,Balanced Diet
+61,Male,157,53,21.5,Diabetes,Non-Veg,Moderate,3255,Diabetic Diet
+37,Female,194,107,28.4,Hypertension,Veg,High,2429,DASH Diet
+57,Male,181,126,38.5,Diabetes,Vegan,Low,1986,Diabetic Diet
+67,Female,195,61,16.0,Diabetes,Non-Veg,Moderate,3315,Diabetic Diet
+48,Female,194,74,19.7,Diabetes,Vegan,Moderate,2443,Diabetic Diet
+41,Male,164,82,30.5,Obesity,Vegan,Moderate,2461,Low Carb Diet
+45,Female,193,93,25.0,None,Eggetarian,Low,2874,Balanced Diet
+40,Male,174,75,24.8,None,Non-Veg,Low,3911,Balanced Diet
+63,Female,163,87,32.7,None,Vegan,Moderate,2766,Low Carb Diet
+38,Male,158,119,47.7,Hypertension,Vegan,Low,1504,DASH Diet
+33,Male,165,101,37.1,Hypertension,Veg,High,2797,DASH Diet
+62,Female,160,75,29.3,Hypertension,Veg,Low,1429,DASH Diet
+58,Female,162,108,41.2,Obesity,Eggetarian,Moderate,1654,Low Carb Diet
+48,Male,192,49,13.3,Obesity,Eggetarian,Low,1816,Low Carb Diet
+55,Female,181,65,19.8,None,Eggetarian,Low,2542,Balanced Diet
+54,Female,180,107,33.0,Obesity,Veg,Low,1478,Low Carb Diet
+68,Female,168,97,34.4,Diabetes,Non-Veg,Moderate,3118,Diabetic Diet
+32,Female,168,82,29.1,Diabetes,Vegan,Moderate,3672,Diabetic Diet
+65,Male,153,55,23.5,Hypertension,Eggetarian,Moderate,3192,DASH Diet
+69,Male,178,47,14.8,Obesity,Veg,High,2990,Low Carb Diet
+20,Female,195,108,28.4,Hypertension,Vegan,High,2567,DASH Diet
+58,Male,192,49,13.3,None,Veg,High,1848,High Protein Diet
+69,Male,181,99,30.2,Diabetes,Veg,High,2965,Diabetic Diet
+70,Female,174,97,32.0,Diabetes,Vegan,Low,1944,Diabetic Diet
+59,Female,174,107,35.3,Hypertension,Veg,Moderate,3554,DASH Diet
+36,Male,184,89,26.3,None,Veg,Low,2520,Balanced Diet
+45,Male,161,68,26.2,Obesity,Eggetarian,High,3925,Low Carb Diet
+30,Female,190,113,31.3,Diabetes,Non-Veg,Low,2044,Diabetic Diet
+37,Male,151,43,18.9,None,Non-Veg,High,2627,High Protein Diet
+22,Female,165,69,25.3,Diabetes,Non-Veg,Moderate,1868,Diabetic Diet
+45,Female,159,67,26.5,Obesity,Veg,Low,3000,Low Carb Diet
+25,Female,146,96,45.0,Diabetes,Eggetarian,Low,3030,Diabetic Diet
+46,Female,157,66,26.8,Hypertension,Veg,Low,1917,DASH Diet
+50,Male,155,66,27.5,None,Eggetarian,High,3677,High Protein Diet
+40,Female,171,64,21.9,Diabetes,Veg,High,2673,Diabetic Diet
+48,Female,177,54,17.2,Hypertension,Veg,Low,2756,DASH Diet
+69,Female,170,52,18.0,Obesity,Vegan,Moderate,1467,Low Carb Diet
+45,Female,159,129,51.0,None,Eggetarian,Moderate,1264,Low Carb Diet
+35,Female,147,58,26.8,Diabetes,Non-Veg,High,1237,Diabetic Diet
+26,Male,153,128,54.7,Hypertension,Veg,Low,3642,DASH Diet
+69,Male,192,124,33.6,Obesity,Vegan,High,2899,Low Carb Diet
+70,Male,171,62,21.2,Diabetes,Non-Veg,High,3938,Diabetic Diet
+29,Female,152,60,26.0,None,Eggetarian,Low,2453,Balanced Diet
+43,Female,161,119,45.9,Obesity,Veg,Low,2558,Low Carb Diet
+19,Female,147,58,26.8,Hypertension,Veg,High,2744,DASH Diet
+66,Male,155,52,21.6,None,Vegan,Low,1577,Vegan Diet
+44,Male,152,100,43.3,Hypertension,Eggetarian,High,3003,DASH Diet
+26,Male,164,100,37.2,Hypertension,Vegan,Low,2522,DASH Diet
+60,Female,184,125,36.9,None,Eggetarian,Moderate,3539,Low Carb Diet
+30,Male,159,105,41.5,Diabetes,Non-Veg,Low,3900,Diabetic Diet
+23,Male,190,91,25.2,Obesity,Veg,Low,2126,Low Carb Diet
+34,Male,191,124,34.0,Obesity,Vegan,High,3092,Low Carb Diet
+60,Female,193,56,15.0,Obesity,Eggetarian,Moderate,3908,Low Carb Diet
+27,Male,192,89,24.1,None,Non-Veg,Low,1258,Balanced Diet
+27,Male,195,70,18.4,Diabetes,Eggetarian,Moderate,1247,Diabetic Diet
+54,Female,175,84,27.4,Diabetes,Eggetarian,Moderate,2079,Diabetic Diet
+47,Female,179,96,30.0,None,Vegan,High,3307,High Protein Diet
+39,Female,156,72,29.6,Obesity,Eggetarian,High,3069,Low Carb Diet
+60,Male,187,83,23.7,Obesity,Veg,Moderate,2947,Low Carb Diet
+59,Male,179,56,17.5,None,Non-Veg,Moderate,1655,Balanced Diet
+25,Female,153,84,35.9,Obesity,Eggetarian,Moderate,3466,Low Carb Diet
+23,Male,170,105,36.3,Diabetes,Non-Veg,High,2108,Diabetic Diet
+67,Male,157,85,34.5,Diabetes,Veg,High,2685,Diabetic Diet
+52,Male,189,107,30.0,Diabetes,Vegan,Low,1610,Diabetic Diet
+61,Male,185,121,35.4,Diabetes,Non-Veg,High,3697,Diabetic Diet
+45,Male,162,46,17.5,Hypertension,Vegan,Moderate,3337,DASH Diet
+44,Female,174,81,26.8,Diabetes,Vegan,Low,1506,Diabetic Diet
+34,Female,158,118,47.3,None,Veg,Moderate,1774,Low Carb Diet
+27,Female,155,71,29.6,Hypertension,Non-Veg,High,2916,DASH Diet
+43,Male,160,84,32.8,None,Non-Veg,Moderate,1775,Low Carb Diet
+43,Male,191,114,31.2,Diabetes,Non-Veg,Moderate,1783,Diabetic Diet
+61,Female,193,81,21.7,None,Veg,High,2474,High Protein Diet
+51,Male,194,120,31.9,Hypertension,Non-Veg,High,2995,DASH Diet
+37,Male,179,118,36.8,Hypertension,Non-Veg,Low,2598,DASH Diet
+35,Male,169,72,25.2,None,Eggetarian,Moderate,3596,Balanced Diet
+28,Female,193,77,20.7,Diabetes,Veg,Low,3671,Diabetic Diet
+56,Female,160,125,48.8,Hypertension,Eggetarian,Moderate,1432,DASH Diet
+58,Male,194,75,19.9,Obesity,Vegan,High,3280,Low Carb Diet
+39,Female,187,72,20.6,Obesity,Veg,Low,1614,Low Carb Diet
+63,Female,160,114,44.5,Hypertension,Non-Veg,High,2976,DASH Diet
+60,Female,151,130,57.0,Hypertension,Eggetarian,High,3325,DASH Diet
+60,Female,147,117,54.1,None,Veg,High,1588,Low Carb Diet
+25,Male,168,114,40.4,Hypertension,Eggetarian,High,1363,DASH Diet
+40,Female,174,113,37.3,None,Eggetarian,High,2968,Low Carb Diet
+60,Male,158,112,44.9,Diabetes,Veg,High,2547,Diabetic Diet
+24,Female,171,43,14.7,Hypertension,Vegan,Moderate,3997,DASH Diet
+40,Female,160,75,29.3,Hypertension,Veg,Moderate,3076,DASH Diet
+62,Female,194,60,15.9,Diabetes,Vegan,High,2843,Diabetic Diet
+66,Female,194,62,16.5,Hypertension,Veg,Moderate,2640,DASH Diet
+57,Male,165,79,29.0,None,Veg,High,2863,High Protein Diet
+38,Female,185,63,18.4,Hypertension,Non-Veg,Moderate,3188,DASH Diet
+40,Female,173,86,28.7,Diabetes,Non-Veg,Moderate,1265,Diabetic Diet
+25,Male,182,79,23.8,Obesity,Non-Veg,Moderate,3733,Low Carb Diet
+62,Male,157,51,20.7,None,Eggetarian,Moderate,1797,Balanced Diet
+63,Female,179,85,26.5,Hypertension,Non-Veg,Moderate,1624,DASH Diet
+65,Female,184,112,33.1,None,Vegan,Low,3012,Low Carb Diet
+70,Male,160,110,43.0,Diabetes,Vegan,Low,3225,Diabetic Diet
+32,Male,160,68,26.6,Hypertension,Non-Veg,Low,1250,DASH Diet
+36,Male,146,118,55.4,Hypertension,Eggetarian,Moderate,3478,DASH Diet
+53,Male,171,63,21.5,Hypertension,Eggetarian,High,2271,DASH Diet
+63,Female,161,95,36.6,Obesity,Vegan,Low,2511,Low Carb Diet
+52,Female,149,128,57.7,Diabetes,Vegan,High,2211,Diabetic Diet
+68,Male,151,104,45.6,Hypertension,Vegan,Low,3674,DASH Diet
+32,Female,190,129,35.7,Diabetes,Eggetarian,Moderate,3552,Diabetic Diet
+21,Female,184,96,28.4,Hypertension,Eggetarian,Low,1901,DASH Diet
+19,Female,180,123,38.0,None,Vegan,Moderate,1805,Low Carb Diet
+22,Female,149,75,33.8,Obesity,Veg,High,3648,Low Carb Diet
+49,Female,190,57,15.8,Hypertension,Non-Veg,High,3051,DASH Diet
+37,Female,166,69,25.0,Hypertension,Non-Veg,High,3990,DASH Diet
+55,Female,145,118,56.1,None,Vegan,High,1690,Low Carb Diet
+67,Male,184,48,14.2,Hypertension,Non-Veg,High,1997,DASH Diet
+33,Male,156,43,17.7,Hypertension,Veg,Moderate,1564,DASH Diet
+24,Female,181,129,39.4,Hypertension,Eggetarian,Moderate,3143,DASH Diet
+26,Female,156,52,21.4,Obesity,Vegan,Low,2962,Low Carb Diet
+34,Female,150,63,28.0,Obesity,Eggetarian,Low,2128,Low Carb Diet
+40,Male,166,97,35.2,None,Vegan,Low,3682,Low Carb Diet
+21,Male,188,87,24.6,None,Non-Veg,Low,3367,Balanced Diet
+18,Male,165,89,32.7,Obesity,Veg,High,3507,Low Carb Diet
+41,Male,156,64,26.3,Hypertension,Non-Veg,High,2094,DASH Diet
+40,Male,188,59,16.7,Obesity,Non-Veg,Moderate,1927,Low Carb Diet
+50,Male,173,43,14.4,None,Veg,Moderate,2393,Balanced Diet
+24,Female,188,63,17.8,Diabetes,Veg,Moderate,1991,Diabetic Diet
+56,Male,184,83,24.5,Hypertension,Eggetarian,Moderate,1676,DASH Diet
+60,Male,166,71,25.8,Obesity,Non-Veg,Low,3210,Low Carb Diet
+30,Female,147,85,39.3,None,Eggetarian,High,3621,Low Carb Diet
+24,Male,187,123,35.2,Obesity,Eggetarian,High,3834,Low Carb Diet
+30,Female,165,57,20.9,Hypertension,Non-Veg,Moderate,3765,DASH Diet
+45,Female,172,88,29.7,None,Eggetarian,Low,3212,Balanced Diet
+24,Female,180,101,31.2,Hypertension,Vegan,Moderate,2376,DASH Diet
+67,Male,178,45,14.2,Diabetes,Veg,Moderate,3606,Diabetic Diet
+65,Male,186,80,23.1,None,Veg,Low,2440,Balanced Diet
+42,Male,167,108,38.7,None,Eggetarian,High,3282,Low Carb Diet
+51,Male,177,87,27.8,None,Non-Veg,Low,3072,Balanced Diet
+29,Male,190,80,22.2,None,Non-Veg,Moderate,2046,Balanced Diet
+54,Male,147,88,40.7,Diabetes,Veg,Moderate,1219,Diabetic Diet
+33,Female,156,89,36.6,Diabetes,Vegan,Moderate,1383,Diabetic Diet
+27,Male,183,71,21.2,Obesity,Eggetarian,High,3536,Low Carb Diet
+63,Female,158,123,49.3,Obesity,Eggetarian,High,1241,Low Carb Diet
+44,Female,169,75,26.3,Diabetes,Eggetarian,Moderate,3658,Diabetic Diet
+18,Female,147,129,59.7,Hypertension,Non-Veg,High,2113,DASH Diet
+22,Male,152,60,26.0,Hypertension,Veg,Low,3399,DASH Diet
+38,Male,192,72,19.5,Hypertension,Vegan,High,2373,DASH Diet
+36,Female,151,55,24.1,Hypertension,Non-Veg,Low,3472,DASH Diet
+49,Male,153,106,45.3,None,Eggetarian,Moderate,1647,Low Carb Diet
+25,Male,147,89,41.2,Diabetes,Veg,High,1476,Diabetic Diet
+33,Female,184,87,25.7,Hypertension,Non-Veg,Moderate,3645,DASH Diet
+67,Male,187,104,29.7,Diabetes,Non-Veg,High,2502,Diabetic Diet
+20,Male,154,83,35.0,Obesity,Non-Veg,Moderate,3092,Low Carb Diet
+30,Male,170,88,30.4,Diabetes,Vegan,High,1460,Diabetic Diet
+32,Male,185,64,18.7,Obesity,Eggetarian,Low,3004,Low Carb Diet
+22,Male,183,107,32.0,Obesity,Non-Veg,Low,3441,Low Carb Diet
+38,Male,152,127,55.0,None,Eggetarian,High,3388,Low Carb Diet
+19,Male,191,81,22.2,Obesity,Veg,Low,1625,Low Carb Diet
+61,Male,145,88,41.9,None,Veg,Moderate,3522,Low Carb Diet
+25,Male,193,120,32.2,None,Veg,Low,3857,Low Carb Diet
+70,Female,181,122,37.2,Hypertension,Vegan,High,3723,DASH Diet
+42,Female,192,70,19.0,Hypertension,Vegan,Moderate,3807,DASH Diet
+47,Female,154,98,41.3,Obesity,Non-Veg,Low,2374,Low Carb Diet
+58,Male,169,72,25.2,Diabetes,Vegan,High,1285,Diabetic Diet
+45,Female,154,45,19.0,Hypertension,Eggetarian,High,3417,DASH Diet
+32,Female,153,120,51.3,Obesity,Non-Veg,Moderate,2924,Low Carb Diet
+44,Female,191,97,26.6,Hypertension,Eggetarian,Moderate,2689,DASH Diet
+39,Female,187,91,26.0,Diabetes,Non-Veg,Low,2088,Diabetic Diet
+63,Male,181,64,19.5,Obesity,Eggetarian,High,2872,Low Carb Diet
+41,Female,158,90,36.1,Diabetes,Eggetarian,Low,3423,Diabetic Diet
+59,Female,164,119,44.2,Hypertension,Veg,Low,2089,DASH Diet
+39,Male,187,89,25.5,Hypertension,Non-Veg,Moderate,1297,DASH Diet
+62,Male,169,112,39.2,Diabetes,Vegan,High,3987,Diabetic Diet
+54,Male,186,91,26.3,Diabetes,Non-Veg,Moderate,2496,Diabetic Diet
+47,Male,192,56,15.2,Hypertension,Vegan,High,3708,DASH Diet
+51,Male,188,52,14.7,None,Veg,Low,1235,Balanced Diet
+21,Female,150,80,35.6,Obesity,Non-Veg,High,1816,Low Carb Diet
+31,Female,149,86,38.7,Obesity,Eggetarian,Moderate,2586,Low Carb Diet
+63,Male,163,78,29.4,None,Non-Veg,Low,1868,Balanced Diet
+44,Male,179,119,37.1,Hypertension,Non-Veg,High,3462,DASH Diet
+58,Female,189,75,21.0,Diabetes,Veg,High,1800,Diabetic Diet
+46,Male,193,45,12.1,Diabetes,Eggetarian,Moderate,2753,Diabetic Diet
+48,Male,194,42,11.2,Obesity,Eggetarian,High,3542,Low Carb Diet
